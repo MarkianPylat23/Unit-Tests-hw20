@@ -3,7 +3,7 @@ package com.cursor.hw20.app.runner;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-@RequestMapping
+@RequestMapping("/discriminat")
 @RestController
 public class Discriminant {
 
